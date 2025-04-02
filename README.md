@@ -32,15 +32,15 @@ A powerful and user-friendly MATLAB tool for analyzing and visualizing mouse sle
 
 ### Option 2: Without MATLAB (Standalone)
 
-1. Download the **installer package** from [Releases](https://github.com/yourusername/MouseSleepStagePlotter_matlab_CN/releases)
+1. Download the **installer package** from [Releases](https://github.com/yourusername/MouseSleepStagePlotter_matlab_CN/releases/tag/v1.0.0)
 2. Run the installer (no need for MATLAB license)
 
 ---
 
 ## 📦 Folder Structure
-
+```
 MouseSleepStagePlotter_matlab_CN/ │ ├── mice_sleep_analysis.mlappinstall # MATLAB App file ├── for_redistribution_files_only/ # Files for standalone version ├── for_testing/ # Sample EEG/EMG data & annotations ├── example_data.tsv # Example TSV annotation ├── doc/ │ └── manual_CN.pdf # 中文用户手册 ├── README.md # This file ├── .gitignore
-
+```
 
 ---
 
