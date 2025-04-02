@@ -43,10 +43,10 @@ A powerful and user-friendly MATLAB tool for analyzing and visualizing mouse sle
 MouseSleepStagePlotter_matlab_CN/
 ├── mice_sleep_analysis.mlappinstall       # MATLAB App file
 ├── for_redistribution_files_only/         # Files for standalone version
-├── for_testing/                           # Sample EEG/EMG data & annotations
-├── example_data.tsv                       # Example TSV annotation
+├── for_testing/                           # Sample EEG/EMG data & annotations (unavailable now)
+├── example_data.tsv                       # Example TSV annotation miceA.tsv
 ├── doc/
-│   └── manual_CN.pdf                      # 中文用户手册
+│   └── 小鼠睡眠数据简易分析软件简介.pdf     # 中文用户手册
 ├── README.md                              # This file
 ├── .gitignore
 ```
