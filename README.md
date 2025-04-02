@@ -32,7 +32,7 @@ A powerful and user-friendly MATLAB tool for analyzing and visualizing mouse sle
 
 ### Option 2: Without MATLAB (Standalone)
 
-1. Download the **installer package** from [Releases](https://github.com/yourusername/MouseSleepStagePlotter_matlab_CN/releases)
+1. Download the **installer package** from [Releases](https://github.com/yourusername/MouseSleepStagePlotter_matlab_CN/releases/tag/v1.0.0)
 2. Run the installer (no need for MATLAB license)
 
 ---
